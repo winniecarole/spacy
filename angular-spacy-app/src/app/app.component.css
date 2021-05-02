@@ -1,0 +1,19 @@
+.center{
+  text-align: center;
+  font-family: sans-serif,Arial,Helvetica;
+  font-size: 250%;
+  color:darkolivegreen;
+}
+h4{
+  text-align: center;
+  color:darkolivegreen;
+  opacity: 85%;
+}
+
+h6{
+  padding: 5px;
+  opacity: 75%;
+  text-align: center;
+}
+
+
